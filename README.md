@@ -38,7 +38,7 @@ Deployment and configuration.
 
 
 
-Creating users with powershell
+Creating users with powershell.
 
 
 <img width="470" height="203" alt="Screenshot 2025-12-18 194938" src="https://github.com/user-attachments/assets/548dd6e6-b0d9-4b96-a805-9cbd28030143" />
