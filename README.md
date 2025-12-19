@@ -20,14 +20,9 @@ This section outlines the implementation of on-premises Active Directory within 
 - Windows Server 2022-2025
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Deployment and Configuration </h2>
 
 
 Created virtual machine in microsoft azure.
@@ -43,7 +38,7 @@ Deployment and configuration.
 
 
 
-Powershell
+Creating users with powershell
 
 
 <img width="470" height="203" alt="Screenshot 2025-12-18 194938" src="https://github.com/user-attachments/assets/548dd6e6-b0d9-4b96-a805-9cbd28030143" />
